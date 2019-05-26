@@ -1,0 +1,10 @@
+.note-item {
+    padding: 1em;
+    margin-bottom: .5em;
+}
+
+.modify-date {
+    font-size: .9em;
+    font-style: italic;
+    color: #8a8a8a;
+}

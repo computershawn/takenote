@@ -1,0 +1,7 @@
+.notes-list-item {
+  padding: .5em 1em;
+  margin-bottom: .5em;
+  border: 1px solid #eee;
+  background-color: #fcfcfc;
+  border-radius: 2px;
+}

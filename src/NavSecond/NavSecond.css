@@ -1,0 +1,8 @@
+a.back-to-list::before {
+    content: "\2190\00A0";
+}
+
+.nav-sec .nav-item {
+    background-color: #15153a;
+    color: #fff;
+}

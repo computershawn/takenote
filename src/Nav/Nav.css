@@ -1,0 +1,20 @@
+.Nav {
+  min-width: 200px;
+  height: 100%;
+  padding: 12px;
+}
+
+/* .Nav .main-nav a.active::after {
+  content: " \229B";
+} */
+
+.active .nav-item {
+  background-color: #15153a;
+  color: #fff;
+}
+
+.nav-item {
+  padding: 1em;
+  margin-bottom: .5em;
+  border: 1px solid #ddd;
+}
